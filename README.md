@@ -1,7 +1,7 @@
 ## 说明
 由于[think-cache](https://github.com/top-think/think-cache)官方放弃了更新，且不支持php 8及以上，当使用ThinkORM做缓存时，如果使用webman的Cache类，tag功能无法使用。
 
-故本项目提取自ThinkPHP 8最新的Cache模块，完美适配ThinkORM的缓存操作，以及字段缓存，tag和其他所有方法。
+故本项目提取自ThinkPHP 8最新的`Cache`模块，完美适配ThinkORM的缓存操作，以及字段缓存，tag和其他所有方法。
 
 详细情况请查看[ThinkPHP8官方缓存文档](https://doc.thinkphp.cn/v8_0/caches.html)。
 ## 安装
